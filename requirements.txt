@@ -1,0 +1,4 @@
+aiohttp>=3.9,<4
+websockets>=13,<16
+eth-account>=0.11,<1
+hyperliquid-python-sdk>=0.10,<1

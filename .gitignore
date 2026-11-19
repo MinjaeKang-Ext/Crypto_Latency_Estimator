@@ -1,0 +1,12 @@
+data/
+*.csv
+*.jsonl
+*.pem
+*.key
+.env
+.env.*
+.venv/
+__pycache__/
+*.pyc
+*.log
+.DS_Store
